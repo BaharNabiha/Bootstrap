@@ -209,6 +209,7 @@ a:focus {
 
 .graph-right-col {
     margin: 20px;
+    
 }
 
 .legend-style {
@@ -254,6 +255,20 @@ color: #252733;
 }
 .urgent-button{
     background-color: #F8BE12;
+    border-radius: 20%;
+    width: 90px;
+    height: 30px;   
+   
+}
+.new-button{
+    background-color: green;
+    border-radius: 20%;
+    width: 90px;
+    height: 30px;   
+   
+}
+.default-button{
+    background-color: lightgray;
     border-radius: 20%;
     width: 90px;
     height: 30px;   
